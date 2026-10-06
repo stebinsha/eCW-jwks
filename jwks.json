@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS384",
+      "kid": "yottron-rcm-key-1",
+      "n": "vlWxihfjM3mZYzPSn-xMVWmk01HsKUFp12i0VQOqmM6hNVsSKSqTPpo7yn4XH2jQiZWj0puBADIW4TR8x7XLXiK1rXZ7MDVZwd6mxiZx270AzTkLXBurXR6ZsoeaBkWJ9ihZ2ljj1GNI92lJ12rgT0jbTcYWQ1wVdqXsGR74-JICQoROHJbFmPXOnS2P8R4MKs10GVOMsiWnXpkA4Yg_MWdRVdPj7cXjpb2ncUsip9M6_WIFvORarCXwdwUl-8-zgCta_ewUicqGUu6yfNBhQnxTpcftuucg1_USLl-QmOK4zz9EE_GOwVQ2Ohy4L_PLab9U0WU8b-1CBU8jq1VbGQ",
+      "e": "AQAB"
+    }
+  ]
+}
